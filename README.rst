@@ -23,3 +23,4 @@ Day 03
 Question `No Matter How You Slice It <https://adventofcode.com/2018/day/3>`_
 
 - Part 1 Solution: `Record all claims to each square inch using a HashMap <src/bin/day03a.rs>`_
+- Part 2 Solution: `Remove contested claim IDs from a set and return what's left <src/bin/day03b.rs>`_
