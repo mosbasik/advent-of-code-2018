@@ -15,3 +15,4 @@ Day 02
 Question: `Inventory Management System <https://adventofcode.com/2018/day/2>`_
 
 - Part 1 Solution: `Count characters using HashMaps </src/bin/day02a.rs>`_
+- Part 1 Solution: `Check all pairs of words and characters (ugh) </src/bin/day02b.rs>`_
