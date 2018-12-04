@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Peter Henry <me@peterhenry.net>"]
 
 [dependencies]
+unicode-segmentation = "1.2.1"
