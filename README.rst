@@ -20,7 +20,7 @@ Question: `Inventory Management System <https://adventofcode.com/2018/day/2>`_
 Day 03
 ------
 
-Question `No Matter How You Slice It <https://adventofcode.com/2018/day/3>`_
+Question: `No Matter How You Slice It <https://adventofcode.com/2018/day/3>`_
 
 - Part 1 Solution: `Record all claims to each square inch using a HashMap <src/bin/day03a.rs>`_
 - Part 2 Solution: `Remove contested claim IDs from a set and return what's left <src/bin/day03b.rs>`_
@@ -28,7 +28,7 @@ Question `No Matter How You Slice It <https://adventofcode.com/2018/day/3>`_
 Day 04
 ------
 
-Question `Repose Record <https://adventofcode.com/2018/day/4>`_
+Question: `Repose Record <https://adventofcode.com/2018/day/4>`_
 
 - Part 1 Solution: `Parse logs into structs, then populate HashMap counters of minutes asleep <src/bin/day04a.rs>`_
 - Part 2 Solution: `Different iterator chains over the same HashMap <src/bin/day04b.rs>`_
@@ -36,6 +36,6 @@ Question `Repose Record <https://adventofcode.com/2018/day/4>`_
 Day 05
 ------
 
-Question `Alchemical Reduction <https://adventofcode.com/2018/day/5>`_
+Question: `Alchemical Reduction <https://adventofcode.com/2018/day/5>`_
 
 - Part 1 Solution: `Make one pass over a Vec<char> with two indices, removing/backtracking as necessary <src/bin/day05a.rs>`_
