@@ -32,3 +32,10 @@ Question `Repose Record <https://adventofcode.com/2018/day/4>`_
 
 - Part 1 Solution: `Parse logs into structs, then populate HashMap counters of minutes asleep <src/bin/day04a.rs>`_
 - Part 2 Solution: `Different iterator chains over the same HashMap <src/bin/day04b.rs>`_
+
+Day 05
+------
+
+Question `Alchemical Reduction <https://adventofcode.com/2018/day/5>`_
+
+- Part 1 Solution: `Make one pass over a Vec<char> with two indices, removing/backtracking as necessary <src/bin/day05a.rs>`_
