@@ -39,3 +39,4 @@ Day 05
 Question: `Alchemical Reduction <https://adventofcode.com/2018/day/5>`_
 
 - Part 1 Solution: `Make one pass over a Vec<char> with two indices, removing/backtracking as necessary <src/bin/day05a.rs>`_
+- Part 2 Solution: `Plenty more looping over Vec<char>s and removing elements <src/bin/day05b.rs>`_
